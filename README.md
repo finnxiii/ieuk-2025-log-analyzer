@@ -1,4 +1,4 @@
-# IEUK Log Analyzer
+# Traffic Log Analyzer
 
 This project provides a Python script to analyze web server logs for suspicious (bot) traffic, API usage, and traffic spikes. It helps small teams quickly identify problematic traffic patterns and provides actionable recommendations to reduce server overload.
 
